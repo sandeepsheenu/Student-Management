@@ -1,2 +1,2 @@
 # Student Management
-source code for studemt mamagement system written in python
+source code for student management system written in python
